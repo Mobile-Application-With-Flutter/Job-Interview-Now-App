@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "970409023496",
+    "project_id": "job-interview-app-2022",
+    "storage_bucket": "job-interview-app-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970409023496:android:2238f5e2efa456751699bd",
+        "android_client_info": {
+          "package_name": "com.nmtran.jobapp.job_now_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970409023496-hjlrpo6vkkvrav26ta3b4c7521rm9qtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVy472lSyx2_OTQDJ_D85JZjTEaOn7wJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970409023496-hjlrpo6vkkvrav26ta3b4c7521rm9qtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970409023496:android:2a83324c4a06a7371699bd",
+        "android_client_info": {
+          "package_name": "com.nmtran.newjobapp.new_job_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970409023496-hjlrpo6vkkvrav26ta3b4c7521rm9qtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVy472lSyx2_OTQDJ_D85JZjTEaOn7wJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970409023496-hjlrpo6vkkvrav26ta3b4c7521rm9qtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
